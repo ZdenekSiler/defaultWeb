@@ -13,3 +13,6 @@ this is a critical message
 # commit 7 squash
 
 # commit 8 squash
+
+# commit 9 squash
+
