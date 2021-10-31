@@ -16,3 +16,5 @@ this is a critical message
 
 # commit 9 squash
 
+# commit 10 squash
+
